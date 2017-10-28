@@ -6,4 +6,4 @@
 
 
   
-  [apk下载]: (https://github.com/JustRight815/PullToRefreshDemo/blob/master/apk/app-debug.apk "apk下载")
+  [apk下载](https://github.com/JustRight815/PullToRefreshDemo/blob/master/apk/app-debug.apk)
