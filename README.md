@@ -3,3 +3,6 @@
 演示效果：
 
 ![image](https://github.com/JustRight815/PullToRefreshDemo1/blob/master/screenshot/show.gif ) 
+
+
+[id]: https://github.com/JustRight815/PullToRefreshDemo/blob/master/apk/app-debug.apk "apk下载"
